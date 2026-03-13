@@ -1,2 +1,0 @@
-# Shellware
-just a dangerous powershell script that is compatible with windows 8.
